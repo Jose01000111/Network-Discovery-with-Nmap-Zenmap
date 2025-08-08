@@ -61,6 +61,4 @@ Made sure router and switch were powered and connected. Logged into router web a
 - Accessing router admin interface to cross-check connected devices.  
 - Noticing differences between scan results and actual network connections due to firewalls or device states.  
 
----
 
-✨ Ready for Day 3!  
